@@ -13,7 +13,7 @@ export default function App() {
         style={styles.textInput}
       />
       <TextInput
-        placeholder="contraseña"
+        placeholder="contraasdasdasdseña"
         style={styles.textInput}
       
       />
